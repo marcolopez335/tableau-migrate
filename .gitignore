@@ -1,0 +1,7 @@
+# Keep workbooks out of the repo
+*.twb
+*.twbx
+*.tds
+*.tdsx
+*.hyper
+__pycache__/
